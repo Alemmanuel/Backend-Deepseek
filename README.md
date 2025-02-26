@@ -39,12 +39,13 @@ backend/
 
 ## 🔧 Technologies Used
 
-- **Express.js**: Blazingly fast web framework for handling HTTP requests
-- **OpenAI Client**: Modified to work with DeepSeek's revolutionary AI API
-- **CORS**: Enabling secure cross-origin requests
-- **dotenv**: Managing environment variables with military-grade security
-- **body-parser**: Lightning-fast request body parsing
-- **Node.js**: The foundation of our server-side JavaScript execution
+- **Express.js**: Blazingly fast web framework for handling HTTP requests.
+- **OpenAI Client**: Modified to work with DeepSeek's revolutionary AI API.
+- **CORS**: Enabling secure cross-origin requests.
+- **dotenv**: Managing environment variables with military-grade security.
+- **body-parser**: Lightning-fast request body parsing.
+- **Node.js**: The foundation of our server-side JavaScript execution.
+- **Render**: It’s where the backend is deployed to the cloud to connect with the frontend.
 
 ## 💻 Installation
 
